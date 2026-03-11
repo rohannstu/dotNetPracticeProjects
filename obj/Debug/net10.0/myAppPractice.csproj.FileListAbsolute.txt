@@ -31,3 +31,4 @@ C:\Users\rohan\Documents\myAppPractice\obj\Debug\net10.0\refint\myAppPractice.dl
 C:\Users\rohan\Documents\myAppPractice\obj\Debug\net10.0\myAppPractice.pdb
 C:\Users\rohan\Documents\myAppPractice\obj\Debug\net10.0\myAppPractice.genruntimeconfig.cache
 C:\Users\rohan\Documents\myAppPractice\obj\Debug\net10.0\ref\myAppPractice.dll
+C:\Users\rohan\Documents\myAppPractice\obj\Debug\net10.0\myAppPractice.sourcelink.json

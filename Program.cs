@@ -3,13 +3,13 @@ var app = builder.Build();
 var todos = new List<string>
 {
     "Buy groceries",
-    "Walk the dog",
+    "Walk the dog", 
     "Finish coding project"
 }; 
 
-app.MapGet("/todos", () =>
-{
-    return TypedResults.Ok(todos);
+app.MapGet("/todos", (HttpContext context) =>
+{   
+    return Results.Ok(todos);
 });
 
 app.Run();
